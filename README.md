@@ -5,11 +5,11 @@ Get all file in the folder.
 ## Installation
 
 ```bash
-yarn add get-all-file
+$ yarn add get-all-file
 
-// or
+# or
 
-npm install get-all-file
+$ npm install get-all-file
 ```
 
 ## Usage
